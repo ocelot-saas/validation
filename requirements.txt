@@ -1,0 +1,9 @@
+--index-url https://pypi.python.org/simple/
+
+# Duplicated from setup.py.
+jsonschema>=2,<3
+
+# Duplicated from setup.py, for testing.
+coverage>=4,<5
+coveralls>=1,<2
+tabletest3>=1,<2
