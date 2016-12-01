@@ -15,8 +15,8 @@ def readme():
 
 
 setup(
-    name='validation',
-    version='0.0.1',
+    name='validation-py',
+    version='0.0.2',
     description='Entity validation infrastructure.',
     long_description=readme(),
     keywords='validation',
